@@ -1,2 +1,2 @@
 # SpringBoot-Kafka
-Kafka -PubSub
+Spring Boot and Kafka for pubsub
